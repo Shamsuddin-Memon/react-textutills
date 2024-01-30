@@ -38,7 +38,7 @@ export default function NavBar(props: any) {
                 aria-current="page"
                 href="/RegisterForm"
               >
-                Sign Up
+                Register
               </a>
             </button>
 
